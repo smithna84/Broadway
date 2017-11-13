@@ -17,3 +17,17 @@ body{
   font-size: 18px;
   color: white;
 }
+
+.Process h2{
+  font-size: 32px;
+  font-weight: bold;
+  }
+
+  .Process h3{
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  .Process p{
+    font-size: 14px;
+  }
