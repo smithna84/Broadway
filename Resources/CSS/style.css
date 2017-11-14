@@ -28,7 +28,7 @@ body{
     font-weight: bold;
   }
 
-  .Process p{
+  p{
     font-size: 14px;
   }
 
@@ -38,3 +38,28 @@ body{
     color: white;
     background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   }
+
+  .Work h3{
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+.Team h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.Contact h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.Footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgrey;
+}
+
+.Footer a{
+  color: white;
+}
