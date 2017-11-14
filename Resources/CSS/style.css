@@ -7,49 +7,49 @@ body{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
-.Home h1{
+h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
-.Home a{
+a{
   font-size: 18px;
   color: white;
 }
 
-.Process h2{
+h2.Process{
   font-size: 32px;
   font-weight: bold;
   }
 
-  .Process h3{
+h3.Process{
     font-size: 23px;
     font-weight: bold;
   }
 
-  p{
+p{
     font-size: 14px;
   }
 
-  h2{
+h2{
     font-size: 23px;
     font-weight: bold;
     color: white;
     background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   }
 
-  .Work h3{
+h3.Work{
     font-size: 23px;
     font-weight: bold;
   }
 
-.Team h3{
+h3.Team{
   font-size: 23px;
   font-weight: bold;
 }
 
-.Contact h3{
+h3.Contact{
   font-size: 23px;
   font-weight: bold;
 }
